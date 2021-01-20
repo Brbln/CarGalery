@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarGalery.Enitities", "CarGalery.Enitities\CarGalery.Enitities.csproj", "{65F0E0DE-F84F-47BF-9DFA-71FCDDDDA8F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGalery.DataAccess", "CarGalery.DataAccess\CarGalery.DataAccess.csproj", "{E0193667-B79A-47AE-BE8C-B4A6FC7BAD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarGalery.DataAccess", "CarGalery.DataAccess\CarGalery.DataAccess.csproj", "{E0193667-B79A-47AE-BE8C-B4A6FC7BAD93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGalery.Business", "CarGalery.Business\CarGalery.Business.csproj", "{139B6C32-E55E-4484-9B9F-5179780A2FFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarGalery.Business", "CarGalery.Business\CarGalery.Business.csproj", "{139B6C32-E55E-4484-9B9F-5179780A2FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGalery.ConsoleApp", "CarGalery.ConsoleApp\CarGalery.ConsoleApp.csproj", "{F1173DAD-3A9F-4D5B-BD51-43ED2DA84AB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{139B6C32-E55E-4484-9B9F-5179780A2FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139B6C32-E55E-4484-9B9F-5179780A2FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139B6C32-E55E-4484-9B9F-5179780A2FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1173DAD-3A9F-4D5B-BD51-43ED2DA84AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1173DAD-3A9F-4D5B-BD51-43ED2DA84AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1173DAD-3A9F-4D5B-BD51-43ED2DA84AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1173DAD-3A9F-4D5B-BD51-43ED2DA84AB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
